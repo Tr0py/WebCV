@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The First Half of Ziyi's Life  --  菜懿的前半生 来不及解释了，快上车:)
+title: The First Half of Ziyi's Life  --  菜懿的前半生
 email: troppingz@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is where part my thoughts goes.
+  This is where part of my thoughts goes. 来不及解释了，快上车:)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: 
