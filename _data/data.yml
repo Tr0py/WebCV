@@ -45,11 +45,11 @@ profile:
   title: Biography
   #I am currently a research assistant in [Nankai University](http://en.nankai.edu.cn/), working with Prof. [Gong Xiaoli](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm). Before that, 
   details: |
-      I am a Research Assistant at Nankai University, before this, I obtained my Bachelor degree in the [Department of Computer Science and Engineering](https://cc.nankai.edu.cn/main.htm), [Nankai University](https://en.nankai.edu.cn/) in 2020. 
-      I am actively envolved in research projects, under the supervision of Prof. [Xiaoli Gong](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm), also with guidances from
-      Prof. [Pen-Chung Yew](https://www-users.cs.umn.edu/~yew/)
-      and Prof. [Wenwen Wang](http://cobweb.cs.uga.edu/~wenwen/).
-      I'm enjoying the research and looking for a Ph.D. position now. [\[CV here\]](./assets/materials/ziyi-resume-2020-12-v6.pdf){:target="_blank"} [\[Google Scholar\]](https://scholar.google.com/citations?hl=en&user=bVSQ0Y4AAAAJ)
+      I am a Research Assistant at Nankai University, before this, I obtained my Bachelor degree in the [Department of Computer Science and Engineering](https://cc.nankai.edu.cn/main.htm){:target="_blank"}, [Nankai University](https://en.nankai.edu.cn/){:target="_blank"} in 2020. 
+      I am actively envolved in research projects, under the supervision of Prof. [Xiaoli Gong](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm){:target="_blank"}, also with guidances from
+      Prof. [Pen-Chung Yew](https://www-users.cs.umn.edu/~yew/){:target="_blank"}
+      and Prof. [Wenwen Wang](http://cobweb.cs.uga.edu/~wenwen/){:target="_blank"}.
+      I'm enjoying the research and looking for a Ph.D. position now. [\[CV here\]](./assets/materials/ziyi-resume-2020-12-v6.pdf){:target="_blank"} [\[Google Scholar\]](https://scholar.google.com/citations?hl=en&user=bVSQ0Y4AAAAJ){:target="_blank"}
 
       **Research Interests**  
       My research interests include Operating System and Network, Distributed Systems, Large Scale Computing/Storage Systems, Parallel Processing, Computer Architectures and Security. 
@@ -110,10 +110,10 @@ publications:
   display: true
   title: Publications
   intro: |
-      * [**Effective Exploitation of SIMD Resources in Cross-ISA Virtualization**]() (to_be_presented)
+      * [**Effective Exploitation of SIMD Resources in Cross-ISA Virtualization**](){:target="_blank"} (to_be_presented)
         
         Jin Wu, Jian Dong, Ruili Fang, ***Ziyi Zhao***, Xiaoli Gong, Wenwen Wang, Decheng Zuo  
-        *International Conference on Virtual Execution Environments (**[VEE 2021](https://conf.researchr.org/home/vee-2021)**). Acceptance rate: 55% (15/27).*
+        *International Conference on Virtual Execution Environments (**[VEE 2021](https://conf.researchr.org/home/vee-2021){:target="_blank"}**). Acceptance rate: 55% (15/27).*
       * [**Enhancing Atomic Instruction Emulation for Cross-ISA Dynamic Binary Translation**](./assets/materials/QEMU-ABA-CGO2021.pdf){:target="_blank"}
       [\[paper\]](./assets/materials/QEMU-ABA-CGO2021.pdf){:target="_blank"}
       [\[code\]](https://github.com/NKU-EmbeddedSystem/ABA-LLSC){:target="_blank"}
@@ -121,7 +121,7 @@ publications:
       [\[talk\]](https://youtu.be/ebiNA2yXGz4){:target="_blank"}
         
         ***Ziyi Zhao***, Zhang Jiang, Xiaoli Gong, Ying Chen, Wenwen Wang, Pen-Chung Yew  
-        *International Symposium on Code Generation and Optimization (**[CGO 2021](https://conf.researchr.org/home/cgo-2021)**). Acceptance rate: 34% (31/89)*
+        *International Symposium on Code Generation and Optimization (**[CGO 2021](https://conf.researchr.org/home/cgo-2021){:target="_blank"}**). Acceptance rate: 34% (31/89)*
       * [**Regaining Lost Seconds: Efficient Page Preloading for SGX Enclaves**](./assets/materials/SGX-Middleware2020.pdf){:target="_blank"}
       [\[paper\]](./assets/materials/SGX-Middleware2020.pdf){:target="_blank"}
       [\[code\]](https://github.com/NKU-EmbeddedSystem/preloading-for-sgx){:target="_blank"}
@@ -129,7 +129,7 @@ publications:
       [\[talk\]](https://youtu.be/ebiNA2yXGz4){:target="_blank"}
 
         Ximing Liu, Xiaoli Gong, Wenwen Wang, ***Ziyi Zhao***, Pen-Chung Yew  
-        *Middleware Conference 2020 (**[Middleware 2020](https://2020.middleware-conference.org/)**). Acceptance rate: 25% (30/119)*
+        *Middleware Conference 2020 (**[Middleware 2020](https://2020.middleware-conference.org/){:target="_blank"}**). Acceptance rate: 25% (30/119)*
       * [**DQEMU: A Scalable Emulator with Retargetable DBT on Distributed Platforms**](https://dl.acm.org/doi/fullHtml/10.1145/3404397.3404403){:target="_blank"}
       [\[paper\]](./assets/materials/DQEMU-ICPP2020.pdf){:target="_blank"}
       [\[code\]](https://github.com/NKU-EmbeddedSystem/DQEMU){:target="_blank"}
@@ -137,10 +137,10 @@ publications:
       [\[talk\]](https://youtu.be/MhkiBe_0gR8){:target="_blank"}
         
         ***Ziyi Zhao***, Zhang Jiang, Ximing Liu, Xiaoli Gong, Wenwen Wang, Pen-Chung Yew  
-        *The 49th International Conference on Parallel Processing (**[ICPP 2020](https://jnamaral.github.io/icpp20)**). Acceptance rate: 29% (78/269)* 
+        *The 49th International Conference on Parallel Processing (**[ICPP 2020](https://jnamaral.github.io/icpp20){:target="_blank"}**). Acceptance rate: 29% (78/269)* 
       * [**SELWasm: A Code Protection Mechanism for WebAssembly**](https://ieeexplore.ieee.org/abstract/document/9047432){:target="_blank"}   
         Jian Sun, Dingyuan Cao, Ximing Liu, ***Ziyi Zhao***, Wenwen Wang, Xiaoli Gong, Jin Zhang  
-        *International Symposium on Parallel and Distributed Processing with Applications ([**ISPA 2019**](https://www.science-community.org/en/node/204398))*
+        *International Symposium on Parallel and Distributed Processing with Applications ([**ISPA 2019**](https://www.science-community.org/en/node/204398){:target="_blank"})*
 
 projects:
   display: false
@@ -153,13 +153,13 @@ skills:
   display: true
   title: News
   details: |
-      * [03/2021]   A paper accepted to [VEE 2021](https://conf.researchr.org/home/vee-2021).
-      * [11/2020]   A paper accepted to [CGO 2021](https://conf.researchr.org/home/cgo-2021).
+      * [03/2021]   A paper accepted to [VEE 2021](https://conf.researchr.org/home/vee-2021){:target="_blank"}.
+      * [11/2020]   A paper accepted to [CGO 2021](https://conf.researchr.org/home/cgo-2021){:target="_blank"}.
       * [10/2020]   Participated in an RDMA Hackathon, interesting.
-      * [08/2020]   A paper accepted to [Middleware 2020](https://2020.middleware-conference.org/).
+      * [08/2020]   A paper accepted to [Middleware 2020](https://2020.middleware-conference.org/){:target="_blank"}.
       * [06/2020]   My graduate thesis won *Distinguished Thesis Award*, the only two awardees in my department.
-      * [05/2020]   A paper accepted to [ICPP 2020](https://jnamaral.github.io/icpp20).
-      * [10/2019]   A paper accepted to [ISPA 2019](https://www.science-community.org/en/node/204398).
+      * [05/2020]   A paper accepted to [ICPP 2020](https://jnamaral.github.io/icpp20){:target="_blank"}.
+      * [10/2019]   A paper accepted to [ISPA 2019](https://www.science-community.org/en/node/204398){:target="_blank"}.
 
 evaluation:
   display: true
