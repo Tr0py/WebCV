@@ -14,3 +14,5 @@ open: true                  # open or close your site
 date_format: "%Y-%m-%d"     # date format
 google_analytics:           # your google analytics
 theme_color: "#0080FF"      # your favorite theme color
+
+theme: jekyll-theme-cayman
