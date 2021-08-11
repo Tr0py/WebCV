@@ -150,7 +150,7 @@ skills:
       * [11/2020]   A paper accepted to [CGO 2021](https://conf.researchr.org/home/cgo-2021){:target="_blank"}.
 
 evaluation:
-  display: true
+  display: false
   title: Selected Honors & Awards
   details: |
       * Academic Excellence Scholarship (2 out of 54 in my department), 2019
