@@ -45,28 +45,22 @@ profile:
   title: Biography
   #I am currently a research assistant in [Nankai University](http://en.nankai.edu.cn/), working with Prof. [Gong Xiaoli](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm). Before that, 
   details: |
-      I am a PhD student at Rice University, in Computer Science. I spent one year doing Research Assistant at Nankai University, before this, I obtained my Bachelor degree in the [Department of Computer Science and Engineering](https://cc.nankai.edu.cn/main.htm){:target="_blank"}, [Nankai University](https://en.nankai.edu.cn/){:target="_blank"} in 2020. 
-      Here's my CV and Google Scholar Profile. [\[CV here\]](./assets/materials/ziyi-resume-2020-12-v6.pdf){:target="_blank"} [\[Google Scholar\]](https://scholar.google.com/citations?hl=en&user=bVSQ0Y4AAAAJ){:target="_blank"}
+      I am an incoming PhD student at Rice University, Computer Science. I obtained my Bachelor's degree at [Nankai University](https://en.nankai.edu.cn/){:target="_blank"} in 2020. 
 
       **Research Interests**  
-      My research interests include Operating System and Network, Distributed Systems, Large Scale Computing/Storage Systems, Parallel Processing, Computer Architectures and Security. 
+      My research interests lie in computer systems, including compiler and parallel processing.
 
       If you want to discuss with me, feel free to contact :D.
       
 
 education:
   display: true
-  title: Experiences & Education
+  title: Education
   items:
     - university: Rice University
       time: 2021 - ?
-      major: Ph.D. in Computer Science
+      major: Ph.D. student
       degree: Computer Science Department
-      details: |
-    - university: Nankai University
-      time: 2019 - 2021
-      major: Research Assistant
-      degree: Information Security & Embedded System Lab
       details: |
     - university: Nankai University
       time: 2016 - 2020
@@ -108,16 +102,12 @@ experiences:
 
 publications:
   display: true
-  title: Publications
+  title: Selected Publications
   intro: |
       * [**Ascetic: Enhancing Cross-Iterations Data Efficiency in Out-of-Memory Graph Processing on GPUs**](){:target="_blank"} (to be presented)
         
         Ruiqi Tang, ***Ziyi Zhao***, Kailun Wang, Xiaoli Gong, Jin Zhang, Wenwen Wang, Pen-Chung Yew  
         *International Conference on Parallel Processing (ICPP) (**[ICPP 2021](https://oaciss.uoregon.edu/icpp21/index.php){:target="_blank"}**). Acceptance rate: 26.4% (87/329).*
-      * [**Effective Exploitation of SIMD Resources in Cross-ISA Virtualization**](https://dl.acm.org/doi/abs/10.1145/3453933.3454016){:target="_blank"}
-        
-        Jin Wu, Jian Dong, Ruili Fang, ***Ziyi Zhao***, Xiaoli Gong, Wenwen Wang, Decheng Zuo  
-        *International Conference on Virtual Execution Environments (**[VEE 2021](https://conf.researchr.org/home/vee-2021){:target="_blank"}**). Acceptance rate: 55% (15/27).*
       * [**Enhancing Atomic Instruction Emulation for Cross-ISA Dynamic Binary Translation**](./assets/materials/QEMU-ABA-CGO2021.pdf){:target="_blank"}
       [\[paper\]](./assets/materials/QEMU-ABA-CGO2021.pdf){:target="_blank"}
       [\[code\]](https://github.com/NKU-EmbeddedSystem/ABA-LLSC){:target="_blank"}
@@ -142,9 +132,6 @@ publications:
         
         ***Ziyi Zhao***, Zhang Jiang, Ximing Liu, Xiaoli Gong, Wenwen Wang, Pen-Chung Yew  
         *The 49th International Conference on Parallel Processing (**[ICPP 2020](https://jnamaral.github.io/icpp20){:target="_blank"}**). Acceptance rate: 29% (78/269)* 
-      * [**SELWasm: A Code Protection Mechanism for WebAssembly**](https://ieeexplore.ieee.org/abstract/document/9047432){:target="_blank"}   
-        Jian Sun, Dingyuan Cao, Ximing Liu, ***Ziyi Zhao***, Wenwen Wang, Xiaoli Gong, Jin Zhang  
-        *International Symposium on Parallel and Distributed Processing with Applications ([**ISPA 2019**](https://www.science-community.org/en/node/204398){:target="_blank"})*
 
 projects:
   display: false
@@ -161,11 +148,6 @@ skills:
       * [04/2021]   Admitted to Rice University as Ph.D. student!
       * [03/2021]   A paper accepted to [VEE 2021](https://conf.researchr.org/home/vee-2021){:target="_blank"}.
       * [11/2020]   A paper accepted to [CGO 2021](https://conf.researchr.org/home/cgo-2021){:target="_blank"}.
-      * [10/2020]   Participated in an RDMA Hackathon, interesting.
-      * [08/2020]   A paper accepted to [Middleware 2020](https://2020.middleware-conference.org/){:target="_blank"}.
-      * [06/2020]   My graduate thesis won *Distinguished Thesis Award*, the only two awardees in my department.
-      * [05/2020]   A paper accepted to [ICPP 2020](https://jnamaral.github.io/icpp20){:target="_blank"}.
-      * [10/2019]   A paper accepted to [ISPA 2019](https://www.science-community.org/en/node/204398){:target="_blank"}.
 
 evaluation:
   display: true
@@ -173,9 +155,6 @@ evaluation:
   details: |
       * Academic Excellence Scholarship (2 out of 54 in my department), 2019
       * Innovative Scholarship, 2019
-      * College Students Information Security Competition, Second Prize, 2018
-      * Qiang Wang Cup Cyber Security Competition, Excellence Prize, 2018
-      * The Mathematical Contest in Modeling, Honorable Mention, 2017
       * Nation Olympiad of Informatics (Advanced), Second Prize in Province, 2015
 
 footer:
