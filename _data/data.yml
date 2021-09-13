@@ -45,10 +45,10 @@ profile:
   title: Biography
   #I am currently a research assistant in [Nankai University](http://en.nankai.edu.cn/), working with Prof. [Gong Xiaoli](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm). Before that, 
   details: |
-      I am an incoming PhD student at Rice University, Computer Science. I obtained my Bachelor's degree at [Nankai University](https://en.nankai.edu.cn/){:target="_blank"} in 2020. 
+      I am a PhD student at Rice University, Computer Science Department. I obtained my Bachelor's degree at [Nankai University](https://en.nankai.edu.cn/){:target="_blank"} in 2020. 
 
       **Research Interests**  
-      My research interests lie in computer systems, including compiler and parallel processing.
+      My research interests lie in computer systems and architecture, including Opearting Systems, Security, Parallel Processing and Compiler.
 
       If you want to discuss with me, feel free to contact :D.
       
@@ -112,7 +112,7 @@ publications:
       [\[paper\]](./assets/materials/QEMU-ABA-CGO2021.pdf){:target="_blank"}
       [\[code\]](https://github.com/NKU-EmbeddedSystem/ABA-LLSC){:target="_blank"}
       [\[slides\]](./assets/materials/QEMU-ABA-CGO2021-slides.pdf){:target="_blank"}
-      [\[talk\]](https://youtu.be/ebiNA2yXGz4){:target="_blank"}
+      [\[talk\]](https://drive.google.com/file/d/1pRcaExjpzdkS4pWXJuZiHMRcuPSdHoZJ/view?usp=sharing){:target="_blank"}
         
         ***Ziyi Zhao***, Zhang Jiang, Xiaoli Gong, Ying Chen, Wenwen Wang, Pen-Chung Yew  
         *International Symposium on Code Generation and Optimization (**[CGO 2021](https://conf.researchr.org/home/cgo-2021){:target="_blank"}**). Acceptance rate: 34% (31/89)*
