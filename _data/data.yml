@@ -45,11 +45,16 @@ profile:
   title: Biography
   #I am currently a research assistant in [Nankai University](http://en.nankai.edu.cn/), working with Prof. [Gong Xiaoli](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm). Before that, 
   details: |
-      I am currently a first-year PhD student at Rice University, [Computer Science Department](https://csweb.rice.edu/){:target="_blank"}.  Before that, I obtained my Bachelor's degree at [Nankai University](https://en.nankai.edu.cn/){:target="_blank"} in 2020. 
+      I am Ziyi *(ZEE-ee)*, a 1st-year Ph.D. student at [Rice University Computer Science Department](https://csweb.rice.edu/){:target="_blank"}. 
 
-      I am interested in Computer Systems and Architecture, especially Operating Systems and Memory Systems.  I love writing ~~code~~ bugs.
+      Before that, I obtained my Bachelor's degree at [Nankai University](https://en.nankai.edu.cn/){:target="_blank"} in 2020, 
+      and had a great time working with [Dr. Xiaoli Gong](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm){:target="_blank"}, 
+      [Dr. Pen-Chung Yew](https://www-users.cse.umn.edu/~yew/){:target="_blank"}, 
+      and [Dr. Wenwen Wang](https://cobweb.cs.uga.edu/~wenwen/){:target="_blank"}.
 
-      I would be so happy to hear from you if you're interested!  Cheers! ( ゜v ゜)つロ
+      I like Computer Systems and Computer Architecture, especially Operating Systems.  And I love writing ~~code~~ bugs.
+
+      Would be happy to hear from you!  Cheers! ( ゜v ゜)つロ
 
 
 education:
@@ -103,6 +108,7 @@ publications:
   display: true
   title: Selected Publications
   intro: |
+      (See the full publication list in [Google Scolar](https://scholar.google.com/citations?hl=en&user=bVSQ0Y4AAAAJ){:target="_blank"}  )
       * [**Ascetic: Enhancing Cross-Iterations Data Efficiency in Out-of-Memory Graph Processing on GPUs**](https://dl.acm.org/doi/10.1145/3472456.3472457){:target="_blank"}
         
         Ruiqi Tang, ***Ziyi Zhao***, Kailun Wang, Xiaoli Gong, Jin Zhang, Wenwen Wang, Pen-Chung Yew  
