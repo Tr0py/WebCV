@@ -108,7 +108,7 @@ publications:
   display: true
   title: Selected Publications
   intro: |
-      (See the full publication list in [Google Scolar](https://scholar.google.com/citations?hl=en&user=bVSQ0Y4AAAAJ){:target="_blank"}  )
+      (See the full publication list in [Google Scolar](https://scholar.google.com/citations?hl=en&user=bVSQ0Y4AAAAJ){:target="_blank"})
       * [**Ascetic: Enhancing Cross-Iterations Data Efficiency in Out-of-Memory Graph Processing on GPUs**](https://dl.acm.org/doi/10.1145/3472456.3472457){:target="_blank"}
         
         Ruiqi Tang, ***Ziyi Zhao***, Kailun Wang, Xiaoli Gong, Jin Zhang, Wenwen Wang, Pen-Chung Yew  
