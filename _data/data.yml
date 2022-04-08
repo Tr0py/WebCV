@@ -45,7 +45,8 @@ profile:
   title: Biography
   #I am currently a research assistant in [Nankai University](http://en.nankai.edu.cn/), working with Prof. [Gong Xiaoli](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm). Before that, 
   details: |
-      I am Ziyi *(ZEE-ee)*, a 1st-year Ph.D. student at [Rice University Computer Science Department](https://csweb.rice.edu/){:target="_blank"}. 
+      I am Ziyi *(ZEE-ee)*, a 1st-year Ph.D. student at [Rice University Computer Science Department](https://csweb.rice.edu/){:target="_blank"}, 
+      working with [Prof. Scott Rixner](https://www.cs.rice.edu/~rixner/){:target="_blank"} and [Prof. Alan Cox](https://profiles.rice.edu/faculty/alan-l-cox){:target="_blank"}.
 
       Before that, I obtained my Bachelor's degree at [Nankai University](https://en.nankai.edu.cn/){:target="_blank"} in 2020, 
       and had a great time working with [Dr. Xiaoli Gong](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm){:target="_blank"}, 
@@ -150,7 +151,7 @@ skills:
   title: News
   details: |
       * [06/2021]   A paper accepted to [ICPP 2021](https://oaciss.uoregon.edu/icpp21/index.php){:target="_blank"}.
-      * [04/2021]   Admitted to Rice University as Ph.D. student!
+      * [04/2021]   Admitted to Rice University as a Ph.D. student!
       * [03/2021]   A paper accepted to [VEE 2021](https://conf.researchr.org/home/vee-2021){:target="_blank"}.
       * [11/2020]   A paper accepted to [CGO 2021](https://conf.researchr.org/home/cgo-2021){:target="_blank"}.
 
