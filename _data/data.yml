@@ -119,27 +119,27 @@ publications:
       * [**Ascetic: Enhancing Cross-Iterations Data Efficiency in Out-of-Memory Graph Processing on GPUs**](https://dl.acm.org/doi/10.1145/3472456.3472457){:target="_blank"}
         
         Ruiqi Tang, ***Ziyi Zhao***, Kailun Wang, Xiaoli Gong, Jin Zhang, Wenwen Wang, Pen-Chung Yew  
-        *International Conference on Parallel Processing (ICPP) (**[ICPP 2021](https://oaciss.uoregon.edu/icpp21/index.php){:target="_blank"}**). Acceptance rate: 26.4% (87/329).*
+        *International Conference on Parallel Processing (ICPP) (**[ICPP 2021](https://oaciss.uoregon.edu/icpp21/index.php){:target="_blank"}**).*
       * [**Enhancing Atomic Instruction Emulation for Cross-ISA Dynamic Binary Translation**](https://ieeexplore.ieee.org/abstract/document/9370312){:target="_blank"}
       [\[pdf\]](./assets/materials/QEMU-ABA-CGO2021.pdf){:target="_blank"}
       [\[code\]](https://github.com/NKU-EmbeddedSystem/ABA-LLSC){:target="_blank"}
       [\[slides\]](./assets/materials/QEMU-ABA-CGO2021-slides.pdf){:target="_blank"}
         
         ***Ziyi Zhao***, Zhang Jiang, Xiaoli Gong, Ying Chen, Wenwen Wang, Pen-Chung Yew  
-        *International Symposium on Code Generation and Optimization (**[CGO 2021](https://conf.researchr.org/home/cgo-2021){:target="_blank"}**). Acceptance rate: 34% (31/89)*
+        *International Symposium on Code Generation and Optimization (**[CGO 2021](https://conf.researchr.org/home/cgo-2021){:target="_blank"}**).*
       * [**Regaining Lost Seconds: Efficient Page Preloading for SGX Enclaves**](https://dl.acm.org/doi/abs/10.1145/3423211.3425673){:target="_blank"}
       [\[pdf\]](./assets/materials/SGX-Middleware2020.pdf){:target="_blank"}
       [\[code\]](https://github.com/NKU-EmbeddedSystem/preloading-for-sgx){:target="_blank"}
 
         Ximing Liu, Xiaoli Gong, Wenwen Wang, ***Ziyi Zhao***, Pen-Chung Yew  
-        *Middleware Conference 2020 (**[Middleware 2020](https://2020.middleware-conference.org/){:target="_blank"}**). Acceptance rate: 25% (30/119)*
+        *Middleware Conference 2020 (**[Middleware 2020](https://2020.middleware-conference.org/){:target="_blank"}**).*
       * [**DQEMU: A Scalable Emulator with Retargetable DBT on Distributed Platforms**](https://dl.acm.org/doi/fullHtml/10.1145/3404397.3404403){:target="_blank"}
       [\[pdf\]](./assets/materials/DQEMU-ICPP2020.pdf){:target="_blank"}
       [\[code\]](https://github.com/NKU-EmbeddedSystem/DQEMU){:target="_blank"}
       [\[slides\]](./assets/materials/DQEMU-slides-ICPP2020.pdf){:target="_blank"}
         
         ***Ziyi Zhao***, Zhang Jiang, Ximing Liu, Xiaoli Gong, Wenwen Wang, Pen-Chung Yew  
-        *The 49th International Conference on Parallel Processing (**[ICPP 2020](https://jnamaral.github.io/icpp20){:target="_blank"}**). Acceptance rate: 29% (78/269)* 
+        *The 49th International Conference on Parallel Processing (**[ICPP 2020](https://jnamaral.github.io/icpp20){:target="_blank"}**).* 
 
 projects:
   display: false
