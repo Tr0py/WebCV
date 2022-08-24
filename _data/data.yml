@@ -148,17 +148,18 @@ skills:
   display: true
   title: News
   details: |
-      * [06/2021]   A paper accepted to [ICPP 2021](https://oaciss.uoregon.edu/icpp21/index.php){:target="_blank"}.
+      * [07/2022]   Served at Artifact Evaluation Committee at [MICRO'22](https://www.microarch.org/micro55/){:target="_blank"}.
+      * [06/2021]   A paper accepted to [ICPP'21](https://oaciss.uoregon.edu/icpp21/index.php){:target="_blank"}.
       * [04/2021]   Admitted to Rice University as a Ph.D. student!
-      * [03/2021]   A paper accepted to [VEE 2021](https://conf.researchr.org/home/vee-2021){:target="_blank"}.
-      * [11/2020]   A paper accepted to [CGO 2021](https://conf.researchr.org/home/cgo-2021){:target="_blank"}.
+      * [03/2021]   A paper accepted to [VEE'21](https://conf.researchr.org/home/vee-2021){:target="_blank"}.
+      * [11/2020]   A paper accepted to [CGO'21](https://conf.researchr.org/home/cgo-2021){:target="_blank"}.
 
 evaluation:
   display: true
   title: Service
   details: |
     Artifact Evaluation Committee (AEC)
-    * MICRO'22 AEC
+    * [MICRO'22](https://www.microarch.org/micro55/){:target="_blank"} AEC
 
 footer:
   display: true
