@@ -111,29 +111,25 @@ publications:
   intro: |
       (See the full publication list in [Google Scolar](https://scholar.google.com/citations?hl=en&user=bVSQ0Y4AAAAJ){:target="_blank"})
       * [**Effective exploitation of SIMD resources in cross-ISA virtualization**](https://dl.acm.org/doi/abs/10.1145/3453933.3454016){:target="_blank"}
-      [\[pdf\]](https://cobweb.cs.uga.edu/~wenwen/papers/vee21.pdf){:target="_blank"}
-        
+      [\[pdf\]](https://cobweb.cs.uga.edu/~wenwen/papers/vee21.pdf){:target="_blank"}  
         Jin Wu, Jian Dong, Ruili Fang, ***Ziyi Zhao***, Xiaoli Gong, Wenwen Wang, Decheng Zuo  
         *The 17th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments (**[VEE \'21](https://conf.researchr.org/home/vee-2021){:target="_blank"}**).*  
         **Best Presentation Award**
       * [**Enhancing Atomic Instruction Emulation for Cross-ISA Dynamic Binary Translation**](https://ieeexplore.ieee.org/abstract/document/9370312){:target="_blank"}
       [\[pdf\]](./assets/materials/QEMU-ABA-CGO2021.pdf){:target="_blank"}
       [\[code\]](https://github.com/NKU-EmbeddedSystem/ABA-LLSC){:target="_blank"}
-      [\[slides\]](./assets/materials/QEMU-ABA-CGO2021-slides.pdf){:target="_blank"}
-        
+      [\[slides\]](./assets/materials/QEMU-ABA-CGO2021-slides.pdf){:target="_blank"}  
         ***Ziyi Zhao***, Zhang Jiang, Xiaoli Gong, Ying Chen, Wenwen Wang, Pen-Chung Yew  
-        *International Symposium on Code Generation and Optimization (**[CGO \'21](https://conf.researchr.org/home/cgo-2021){:target="_blank"}**).*
+        *2021 IEEE/ACM International Symposium on Code Generation and Optimization (**[CGO \'21](https://conf.researchr.org/home/cgo-2021){:target="_blank"}**).*
       * [**Regaining Lost Seconds: Efficient Page Preloading for SGX Enclaves**](https://dl.acm.org/doi/abs/10.1145/3423211.3425673){:target="_blank"}
       [\[pdf\]](./assets/materials/SGX-Middleware2020.pdf){:target="_blank"}
-      [\[code\]](https://github.com/NKU-EmbeddedSystem/preloading-for-sgx){:target="_blank"}
-
+      [\[code\]](https://github.com/NKU-EmbeddedSystem/preloading-for-sgx){:target="_blank"}  
         Ximing Liu, Xiaoli Gong, Wenwen Wang, ***Ziyi Zhao***, Pen-Chung Yew  
-        *Middleware Conference 2020 (**[Middleware \'20](https://2020.middleware-conference.org/){:target="_blank"}**).*
+        *Proceedings of the 21st International Middleware Conference (**[Middleware \'20](https://2020.middleware-conference.org/){:target="_blank"}**).*
       * [**DQEMU: A Scalable Emulator with Retargetable DBT on Distributed Platforms**](https://dl.acm.org/doi/fullHtml/10.1145/3404397.3404403){:target="_blank"}
       [\[pdf\]](./assets/materials/DQEMU-ICPP2020.pdf){:target="_blank"}
       [\[code\]](https://github.com/NKU-EmbeddedSystem/DQEMU){:target="_blank"}
-      [\[slides\]](./assets/materials/DQEMU-slides-ICPP2020.pdf){:target="_blank"}
-        
+      [\[slides\]](./assets/materials/DQEMU-slides-ICPP2020.pdf){:target="_blank"}  
         ***Ziyi Zhao***, Zhang Jiang, Ximing Liu, Xiaoli Gong, Wenwen Wang, Pen-Chung Yew  
         *The 49th International Conference on Parallel Processing (**[ICPP \'20](https://jnamaral.github.io/icpp20){:target="_blank"}**).* 
 
