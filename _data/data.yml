@@ -144,7 +144,8 @@ skills:
   display: true
   title: News
   details: |
-      * [07/2022]   Served at Artifact Evaluation Committee at [MICRO'22](https://www.microarch.org/micro55/){:target="_blank"}.
+      * [09/2022]   Served on Artifact Evaluation Committee at [ASPLOS'23](https://asplos-conference.org/){:target="_blank"}.
+      * [07/2022]   Served on Artifact Evaluation Committee at [MICRO'22](https://www.microarch.org/micro55/){:target="_blank"}.
       * [06/2021]   A paper accepted to [ICPP'21](https://oaciss.uoregon.edu/icpp21/index.php){:target="_blank"}.
       * [04/2021]   Admitted to Rice University as a Ph.D. student!
       * [03/2021]   A paper accepted to [VEE'21](https://conf.researchr.org/home/vee-2021){:target="_blank"}.
@@ -154,7 +155,8 @@ evaluation:
   title: Service
   details: |
     Artifact Evaluation Committee (AEC)
-    * [MICRO '22](https://www.microarch.org/micro55/){:target="_blank"} AEC
+    * [MICRO \'22](https://www.microarch.org/micro55/){:target="_blank"} AEC
+    * [ASPLOS \'23](https://asplos-conference.org/){:target="_blank"} AEC
 
 footer:
   display: true
