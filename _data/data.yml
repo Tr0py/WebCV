@@ -32,30 +32,29 @@ languages:
       level: Professional
 
 interests:
-  display: false
-  title: Interests
-  items:
-    - item: Reading
-      link:
-    - item: Cooking
-      link:
+  display: true
+  title: Research
+  details: |
+      I am interested in Operating Systems and Computer Architecture, with a focus on **memory management** and **parallel processing**.
+
+      I am currently focused on improving **memory and storage systems** with OS-level virtualization techniques.
+
+      Previously, I had experiences in improving cross-ISA Dynamic Binary Translation systems such as QEMU, with a focus on **improving their parallel performance and correctness**.
+
+      Knowledge exchange is very welcomed!
 
 profile:
   display: true
   title: Biography
   #I am currently a research assistant in [Nankai University](http://en.nankai.edu.cn/), working with Prof. [Gong Xiaoli](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm). Before that, 
   details: |
-      I am Ziyi `\Zee-E\`, a 2nd-year Ph.D. student at [Rice University Computer Science Department](https://csweb.rice.edu/){:target="_blank"}, 
+      Hi there!  I am Ziyi `\Zee-E\`, a 2nd-year Ph.D. student at [Rice University Computer Science Department](https://csweb.rice.edu/){:target="_blank"},
       working with [Prof. Scott Rixner](https://www.cs.rice.edu/~rixner/){:target="_blank"} and [Prof. Alan Cox](https://profiles.rice.edu/faculty/alan-l-cox){:target="_blank"}.
 
       Before that, I obtained my Bachelor's degree at [Nankai University](https://en.nankai.edu.cn/){:target="_blank"},
       and had a great time working with [Prof. Xiaoli Gong](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm){:target="_blank"}, 
       [Prof. Pen-Chung Yew](https://www-users.cse.umn.edu/~yew/){:target="_blank"}, 
       and [Prof. Wenwen Wang](https://cobweb.cs.uga.edu/~wenwen/){:target="_blank"}.
-
-      For research, I am interested in Operating Systems and Computer Architecture, with a focus on [memory management](https://www.geeksforgeeks.org/memory-management-in-operating-system/){:target="_blank"} and parallel processing.  Knowledge exchange is very welcomed!
-
-      Cheers! ( ゜v ゜)つロ
 
 
 education:
