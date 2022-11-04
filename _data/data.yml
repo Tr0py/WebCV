@@ -143,6 +143,7 @@ skills:
   display: true
   title: News
   details: |
+      * [11/2022]   Stated serving on Artifact Evaluation Committee at [CGO \'23](https://conf.researchr.org/committee/cgo-2023/cgo-2023-artifact-evaluation-artifact-evaluation-committee){:target="_blank"}.
       * [09/2022]   Served on Artifact Evaluation Committee at [ASPLOS'23](https://asplos-conference.org/){:target="_blank"}.
       * [07/2022]   Served on Artifact Evaluation Committee at [MICRO'22](https://www.microarch.org/micro55/){:target="_blank"}.
       * [06/2021]   A paper accepted to [ICPP'21](https://oaciss.uoregon.edu/icpp21/index.php){:target="_blank"}.
@@ -154,8 +155,9 @@ evaluation:
   title: Service
   details: |
     Artifact Evaluation Committee (AEC)
-    * [MICRO \'22](https://www.microarch.org/micro55/){:target="_blank"} AEC
+    * [CGO \'23](https://conf.researchr.org/committee/cgo-2023/cgo-2023-artifact-evaluation-artifact-evaluation-committee){:target="_blank"} AEC
     * [ASPLOS \'23](https://asplos-conference.org/){:target="_blank"} AEC
+    * [MICRO \'22](https://www.microarch.org/micro55/){:target="_blank"} AEC
 
 footer:
   display: true
