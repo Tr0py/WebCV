@@ -147,17 +147,19 @@ skills:
       * [09/2022]   Served on Artifact Evaluation Committee at [ASPLOS'23](https://asplos-conference.org/){:target="_blank"}.
       * [07/2022]   Served on Artifact Evaluation Committee at [MICRO'22](https://www.microarch.org/micro55/){:target="_blank"}.
       * [06/2021]   A paper accepted to [ICPP'21](https://oaciss.uoregon.edu/icpp21/index.php){:target="_blank"}.
-      * [04/2021]   Admitted to Rice University as a Ph.D. student!
-      * [03/2021]   A paper accepted to [VEE'21](https://conf.researchr.org/home/vee-2021){:target="_blank"}.
 
 evaluation:
   display: true
-  title: Service
+  title: Services
   details: |
-    Artifact Evaluation Committee (AEC)
-    * [CGO \'23](https://conf.researchr.org/committee/cgo-2023/cgo-2023-artifact-evaluation-artifact-evaluation-committee){:target="_blank"} AEC
-    * [ASPLOS \'23](https://asplos-conference.org/){:target="_blank"} AEC
-    * [MICRO \'22](https://www.microarch.org/micro55/){:target="_blank"} AEC
+    Artifact Evaluation Committee (reviewers who reproduce and validate the results of accepted paper)
+    * [CGO \'23](https://conf.researchr.org/committee/cgo-2023/cgo-2023-artifact-evaluation-artifact-evaluation-committee){:target="_blank"} Artifact Evaluation Committee
+    * [ASPLOS \'23](https://asplos-conference.org/){:target="_blank"} Artifact Evaluation Committee
+    * [MICRO \'22](https://www.microarch.org/micro55/){:target="_blank"} Artifact Evaluation Committee
+
+    Teaching Assistant at Rice University
+    * Parallel Computing (COMP 422/534) - Fall 2022
+    * Introduction to Computer Networks (COMP/ELEC 429/556) - Spring 2022
 
 footer:
   display: true
