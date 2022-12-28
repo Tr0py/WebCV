@@ -152,14 +152,15 @@ evaluation:
   display: true
   title: Services
   details: |
-    Artifact Evaluation Committee (reviewers who reproduce and validate the results of accepted paper)
-    * [CGO \'23](https://conf.researchr.org/committee/cgo-2023/cgo-2023-artifact-evaluation-artifact-evaluation-committee){:target="_blank"} Artifact Evaluation Committee
-    * [ASPLOS \'23](https://asplos-conference.org/){:target="_blank"} Artifact Evaluation Committee
-    * [MICRO \'22](https://www.microarch.org/micro55/){:target="_blank"} Artifact Evaluation Committee
+    **Artifact Evaluation Committee** (reviewers who validate the results of research paper)
+    * [CGO \'23 Artifact Evaluation Committee](https://conf.researchr.org/committee/cgo-2023/cgo-2023-artifact-evaluation-artifact-evaluation-committee){:target="_blank"} Member
+    * [ASPLOS \'23 Artifact Evaluation Committee](https://sites.google.com/stanford.edu/asplos23aec/committee){:target="_blank"} Member
+    * [MICRO \'22 Artifact Evaluation Committee](https://www.microarch.org/micro55/submit/artifacts.php){:target="_blank"} Member
 
-    Teaching Assistant at Rice University
-    * Parallel Computing (COMP 422/534) - Fall 2022
-    * Introduction to Computer Networks (COMP/ELEC 429/556) - Spring 2022
+    **Teaching Assistant**
+    * Parallel Computing (COMP 422/534) - Fall 2022, Rice University
+    * Introduction to Computer Networks (COMP/ELEC 429/556) - Spring 2022, Rice University
+    * Operating Systems - Spring 2021, Nankai University
 
 footer:
   display: true
