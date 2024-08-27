@@ -35,13 +35,13 @@ interests:
   display: true
   title: Research
   details: |
-      I am interested in Operating Systems and Computer Architecture, with a focus on **memory management** and **parallel processing**.
+      I am interested in Operating Systems and Computer Architecture, particularly in the areas of memory management and parallel processing.
 
-      I am currently focused on improving **memory and storage systems** with OS-level virtualization techniques.
+      Currently, my research centers on enhancing memory and storage systems using OS-level virtualization techniques.
 
-      Previously, I had experiences in improving cross-ISA Dynamic Binary Translation systems such as QEMU, with a focus on **improving their parallel performance and correctness**.
+      In the past, I worked on optimizing Code Generation systems like QEMU, where I focused on improving their parallel performance and ensuring correctness.
 
-      Knowledge exchange is very welcomed!
+      Feel free to reach out—I'm always open to knowledge exchange and connecting with others!
 
 profile:
   display: true
@@ -49,10 +49,10 @@ profile:
   #I am currently a research assistant in [Nankai University](http://en.nankai.edu.cn/), working with Prof. [Gong Xiaoli](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm). Before that, 
   details: |
       Hey y'all!  I am Ziyi (pronounced `\Zee-E\`), a 3rd-year Ph.D. student at [Rice University Computer Science Department](https://csweb.rice.edu/){:target="_blank"}.
-      I work with [Prof. Scott Rixner](https://www.cs.rice.edu/~rixner/){:target="_blank"} and [Prof. Alan Cox](https://profiles.rice.edu/faculty/alan-l-cox){:target="_blank"} on Operating Systems..
+      I work with [Prof. Scott Rixner](https://www.cs.rice.edu/~rixner/){:target="_blank"} and [Prof. Alan Cox](https://profiles.rice.edu/faculty/alan-l-cox){:target="_blank"} on research in Operating Systems.
 
-      Before that, I obtained my Bachelor's degree at [Nankai University](https://en.nankai.edu.cn/){:target="_blank"},
-      and had a great time working with [Prof. Xiaoli Gong](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm){:target="_blank"}, 
+      Previously, I obtained my Bachelor's degree at [Nankai University](https://en.nankai.edu.cn/){:target="_blank"},
+      where I had the pleasure of working with [Prof. Xiaoli Gong](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm){:target="_blank"}, 
       [Prof. Pen-Chung Yew](https://www-users.cse.umn.edu/~yew/){:target="_blank"}, 
       and [Prof. Wenwen Wang](https://cobweb.cs.uga.edu/~wenwen/){:target="_blank"}.
 
