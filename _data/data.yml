@@ -65,7 +65,7 @@ experiences:
   title: Experiences
   items:
     - role: System Software Engineer Intern
-      time: 2025.06 - 2025.09
+      time: 2025.05 - 2025.08
       company: NVIDIA
       tag: 
       location: Santa Clara, CA
@@ -74,7 +74,7 @@ experiences:
         + Achieved ~100x speedup compared to the previous page-fault-based approach on a Deep Learning Recommendation Model training task
 
     - role: System Software Engineer Intern
-      time: 2024.06 - 2024.09
+      time: 2024.05 - 2024.08
       company: NVIDIA
       tag:
       location: Santa Clara, CA
