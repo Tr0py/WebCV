@@ -32,7 +32,7 @@ languages:
       level: Professional
 
 interests:
-  display: true
+  display: false
   title: Research
   details: |
       I am interested in Operating Systems and Computer Architecture, particularly in the areas of memory management and parallel processing.
@@ -48,14 +48,39 @@ profile:
   title: Biography
   #I am currently a research assistant in [Nankai University](http://en.nankai.edu.cn/), working with Prof. [Gong Xiaoli](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm). Before that, 
   details: |
-      Hey y'all!  I am Ziyi (pronounced `\Zee-E\`), a 3rd-year Ph.D. student at [Rice University Computer Science Department](https://csweb.rice.edu/){:target="_blank"}.
-      I work with [Prof. Scott Rixner](https://www.cs.rice.edu/~rixner/){:target="_blank"} and [Prof. Alan Cox](https://profiles.rice.edu/faculty/alan-l-cox){:target="_blank"} on research in Operating Systems.
+      Hey there! I'm Ziyi (pronounced `\Zee-E\`), a 4th-year Ph.D. student at [Rice University](https://csweb.rice.edu/){:target="_blank"}.
+      I focus on Memory Systems research, particularly heterogeneous systems that combine different memory types and processors like GPUs and CPUs. 
+      I work with [Prof. Scott Rixner](https://www.cs.rice.edu/~rixner/){:target="_blank"} and [Prof. Alan Cox](https://profiles.rice.edu/faculty/alan-l-cox){:target="_blank"}.
 
-      Previously, I obtained my Bachelor's degree at [Nankai University](https://en.nankai.edu.cn/){:target="_blank"},
-      where I had the pleasure of working with [Prof. Xiaoli Gong](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm){:target="_blank"}, 
+      I am currently also a part-time intern at NVIDIA, where I work on GPU page migration algorithms to enhance GPU performance and enable larger models to run efficiently on GPUs with limited memory capacity.
+
+      I earned my Bachelor's degree from [Nankai University](https://en.nankai.edu.cn/){:target="_blank"}, where I had the fortune to do research on QEMU with 
+      [Prof. Xiaoli Gong](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm){:target="_blank"}, 
       [Prof. Pen-Chung Yew](https://www-users.cse.umn.edu/~yew/){:target="_blank"}, 
       and [Prof. Wenwen Wang](https://cobweb.cs.uga.edu/~wenwen/){:target="_blank"}.
 
+
+experiences:
+  display: true
+  title: Experiences
+  items:
+    - role: System Software Engineer Intern
+      time: 2025.06 - 2025.09
+      company: NVIDIA
+      tag: 
+      location: Santa Clara, CA
+      details: |
+        + Developed an adaptive page migration algorithm to improve GPU performance on large models training tasks with limited memory capacity
+        + Achieved ~100x speedup compared to the previous page-fault-based approach on a Deep Learning Recommendation Model training task
+
+    - role: System Software Engineer Intern
+      time: 2024.06 - 2024.09
+      company: NVIDIA
+      tag:
+      location: Santa Clara, CA
+      details: |
+        + Developed microbenchmarks to identify GPU memory access bottlenecks in data center GPUs
+        + Discovered critical GPU address translation bottlenecks that helped inform future GPU architecture design decisions
 
 education:
   display: false
@@ -75,62 +100,29 @@ education:
         + **Selected Awards**: Academic Excellence Scholarship, Innovation Scholarship, Distinguished Thesis Award
         + Visiting student to University of Minnesota, Twin Cities, supervised by Prof. Pen-Chung Yew in July-Sep, 2019.
 
-experiences:
-  display: false
-  title: Experiences
-  items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
-      tag:
-      location: Beijing
-      details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
-      details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
-
 
 publications:
   display: true
-  title: Publications
+  title: Selected Publications
   intro: |
       (See [Google Scolar](https://scholar.google.com/citations?hl=en&user=bVSQ0Y4AAAAJ){:target="_blank"} for a complete publication list.)
-      * [**Effective exploitation of SIMD resources in cross-ISA virtualization**](https://dl.acm.org/doi/abs/10.1145/3453933.3454016){:target="_blank"}
-      [\[pdf\]](https://cobweb.cs.uga.edu/~wenwen/papers/vee21.pdf){:target="_blank"}  
-        Jin Wu, Jian Dong, Ruili Fang, ***Ziyi Zhao***, Xiaoli Gong, Wenwen Wang, Decheng Zuo  
-        *The 17th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments (**[VEE \'21](https://conf.researchr.org/home/vee-2021){:target="_blank"}**).*  
-        **Best Presentation Award**
+      * [**Oasis: Persistent Memory Oversubscription for Emerging Applications via Persistent MMAP**](https://dl.acm.org/doi/abs/10.1145/3757347.3759130){:target="_blank"}
+      [\[code\]](https://github.com/rice-systems/Oasis){:target="_blank"}  
+        ***Ziyi Zhao***, Scott Rixner  
+        *Proceedings of the 18th ACM International Systems and Storage Conference (**SYSTOR \'25**).*
+      * [**Liberator: A data reuse framework for out-of-memory graph computing on GPUs**](https://ieeexplore.ieee.org/document/10107428){:target="_blank"}  
+        Shiyang Li, Ruiqi Tang, Jiawen Zhu, ***Ziyi Zhao***, Xiaoli Gong, Wenwen Wang, Jiang Zhang, Pen-Chung Yew  
+        *IEEE Transactions on Parallel and Distributed Systems (**TPDS**) 34.6 (2023): 1954-1967.*
       * [**Enhancing Atomic Instruction Emulation for Cross-ISA Dynamic Binary Translation**](https://ieeexplore.ieee.org/abstract/document/9370312){:target="_blank"}
-      [\[pdf\]](./assets/materials/QEMU-ABA-CGO2021.pdf){:target="_blank"}
       [\[code\]](https://github.com/NKU-EmbeddedSystem/ABA-LLSC){:target="_blank"}
       [\[slides\]](./assets/materials/QEMU-ABA-CGO2021-slides.pdf){:target="_blank"}  
         ***Ziyi Zhao***, Zhang Jiang, Xiaoli Gong, Ying Chen, Wenwen Wang, Pen-Chung Yew  
-        *2021 IEEE/ACM International Symposium on Code Generation and Optimization (**[CGO \'21](https://conf.researchr.org/home/cgo-2021){:target="_blank"}**).*
-      * [**Regaining Lost Seconds: Efficient Page Preloading for SGX Enclaves**](https://dl.acm.org/doi/abs/10.1145/3423211.3425673){:target="_blank"}
-      [\[pdf\]](./assets/materials/SGX-Middleware2020.pdf){:target="_blank"}
-      [\[code\]](https://github.com/NKU-EmbeddedSystem/preloading-for-sgx){:target="_blank"}  
-        Ximing Liu, Xiaoli Gong, Wenwen Wang, ***Ziyi Zhao***, Pen-Chung Yew  
-        *Proceedings of the 21st International Middleware Conference (**[Middleware \'20](https://2020.middleware-conference.org/){:target="_blank"}**).*
+        *2021 IEEE/ACM International Symposium on Code Generation and Optimization (**CGO \'21**).*
       * [**DQEMU: A Scalable Emulator with Retargetable DBT on Distributed Platforms**](https://dl.acm.org/doi/fullHtml/10.1145/3404397.3404403){:target="_blank"}
-      [\[pdf\]](./assets/materials/DQEMU-ICPP2020.pdf){:target="_blank"}
       [\[code\]](https://github.com/NKU-EmbeddedSystem/DQEMU){:target="_blank"}
       [\[slides\]](./assets/materials/DQEMU-slides-ICPP2020.pdf){:target="_blank"}  
         ***Ziyi Zhao***, Zhang Jiang, Ximing Liu, Xiaoli Gong, Wenwen Wang, Pen-Chung Yew  
-        *The 49th International Conference on Parallel Processing (**[ICPP \'20](https://jnamaral.github.io/icpp20){:target="_blank"}**).* 
+        *The 49th International Conference on Parallel Processing (**ICPP \'20**).* 
 
 projects:
   display: false
@@ -140,9 +132,10 @@ projects:
 
 
 skills:
-  display: true
+  display: false
   title: News
   details: |
+
       * [11/2022]   Stated serving on Artifact Evaluation Committee at [CGO \'23](https://conf.researchr.org/committee/cgo-2023/cgo-2023-artifact-evaluation-artifact-evaluation-committee){:target="_blank"}.
       * [09/2022]   Served on Artifact Evaluation Committee at [ASPLOS'23](https://asplos-conference.org/){:target="_blank"}.
       * [07/2022]   Served on Artifact Evaluation Committee at [MICRO'22](https://www.microarch.org/micro55/){:target="_blank"}.
