@@ -1,7 +1,7 @@
 intro:
   name: Ziyi Zhao (赵子懿) &nbsp <img src="https://raw.githubusercontent.com/Tr0py/WebCV/master/assets/images/name.png" alt="name" height="40">
   title: |
-      PhD Student @ Rice University | Computer Science
+      PhD Student @ Rice University | Computer Science | System & Memory
   avatar:
     display: true
     path: photo-2022.jpeg
@@ -48,7 +48,7 @@ profile:
   title: Biography
   #I am currently a research assistant in [Nankai University](http://en.nankai.edu.cn/), working with Prof. [Gong Xiaoli](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm). Before that, 
   details: |
-      Hey there! I'm Ziyi (pronounced `\Zee-E\`), a 4th-year Ph.D. student at [Rice University](https://csweb.rice.edu/){:target="_blank"}.
+      Hey there! I'm Ziyi (pronounced `\Zee-E\`), a 5th-year Ph.D. student at [Rice University](https://csweb.rice.edu/){:target="_blank"}.
       I focus on Memory Systems research, particularly heterogeneous systems that combine different memory types and processors like GPUs and CPUs. 
       I work with [Prof. Scott Rixner](https://www.cs.rice.edu/~rixner/){:target="_blank"} and [Prof. Alan Cox](https://profiles.rice.edu/faculty/alan-l-cox){:target="_blank"}.
 
@@ -70,8 +70,8 @@ experiences:
       tag: 
       location: Santa Clara, CA
       details: |
-        + Developed an adaptive page migration algorithm to improve GPU performance on large models training tasks with limited memory capacity
-        + Achieved ~100x speedup compared to the previous page-fault-based approach on a Deep Learning Recommendation Model training task
+        + Working on GPU memory systems within the CUDA UVM team, focusing on OS- and runtime-level mechanisms for datacenter workloads. Architected and implemented a selective page migration system that enables transparent data movement between CPU and GPU memory with minimal hardware support, improving GPU execution efficiency without requiring application code changes.
+        + Delivered up to 17% performance gains on recommendation system workloads compared to hand-tuned memory management, and 66–100× speedups over Unified Virtual Memory (UVM), with additional 1–4× improvements on LLM and HPC workloads.
 
     - role: System Software Engineer Intern
       time: 2024.05 - 2024.08
@@ -79,15 +79,15 @@ experiences:
       tag:
       location: Santa Clara, CA
       details: |
-        + Developed microbenchmarks to identify GPU memory access bottlenecks in data center GPUs
-        + Discovered critical GPU address translation bottlenecks that helped inform future GPU architecture design decisions
+        + Worked on GPU memory systems within the CUDA UVM team, focusing on performance characterization for datacenter-scale workloads. Developed a suite of microbenchmarks to analyze GPU memory access patterns and identify bottlenecks across the memory hierarchy in both hardware and software.
+        + Performed in-depth analysis of memory access and address translation behavior (e.g., TLB coverage and page table walks), and delivered insights that directly informed architectural decisions for next-generation GPUs.
 
 education:
   display: false
   title: Education
   items:
     - university: Rice University
-      time: 2021 - ?
+      time: 2021 - 2026 (Expected)
       major: Ph.D. student
       degree: Computer Science Department
       details: |
@@ -96,7 +96,7 @@ education:
       major: Bachelor of Engineering 
       degree: Department of Computer Science & Engineering
       details: |
-        + **_Major_ GPA**: 91/100
+        + **_Major_ GPA**: 3.8
         + **Selected Awards**: Academic Excellence Scholarship, Innovation Scholarship, Distinguished Thesis Award
         + Visiting student to University of Minnesota, Twin Cities, supervised by Prof. Pen-Chung Yew in July-Sep, 2019.
 
