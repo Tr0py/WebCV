@@ -1,6 +1,6 @@
 # Hi!
 
-I am interested in Computer Systems, and want to pursue a Ph.D. in CS. Let's be companions if you're also interested in CS.
+I am a System Software Engineer at NVIDIA, where I work on improving AI performance using GPU Unified Virtual Memory. I earned my Ph.D. in Computer Science from Rice University in August 2026.
 
 Visit my website [here](https://tr0py.github.io/).
 

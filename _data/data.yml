@@ -1,7 +1,7 @@
 intro:
   name: Ziyi Zhao (赵子懿) &nbsp <img src="https://raw.githubusercontent.com/Tr0py/WebCV/master/assets/images/name.png" alt="name" height="40">
   title: |
-      PhD Student @ Rice University | Computer Science | System & Memory
+      System Software Engineer at NVIDIA | GPU Memory | LLM Inference
   avatar:
     display: true
     path: photo-2022.jpeg
@@ -48,15 +48,13 @@ profile:
   title: Biography
   #I am currently a research assistant in [Nankai University](http://en.nankai.edu.cn/), working with Prof. [Gong Xiaoli](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm). Before that, 
   details: |
-      Hey there! I'm Ziyi (pronounced `\Zee-E\`), a 5th-year Ph.D. student at [Rice University](https://csweb.rice.edu/){:target="_blank"}.
-      I focus on Memory Systems research, particularly heterogeneous systems that combine different memory types and processors like GPUs and CPUs. 
-      I work with [Prof. Scott Rixner](https://www.cs.rice.edu/~rixner/){:target="_blank"} and [Prof. Alan Cox](https://profiles.rice.edu/faculty/alan-l-cox){:target="_blank"}.
+      Hi! I'm Ziyi (pronounced `\Zee-E\`), a System Software Engineer at NVIDIA since September 2026. I work on improving AI performance using GPU Unified Virtual Memory.
 
-      I am currently also a part-time intern at NVIDIA, where I work on GPU page migration algorithms to enhance GPU performance and enable larger models to run efficiently on GPUs with limited memory capacity.
+      I earned my Ph.D. in Computer Science from [Rice University](https://csweb.rice.edu/){:target="_blank"} in August 2026, where I worked with [Prof. Scott Rixner](https://www.cs.rice.edu/~rixner/){:target="_blank"} and [Prof. Alan Cox](https://profiles.rice.edu/faculty/alan-l-cox){:target="_blank"}. My research focused on memory systems, particularly heterogeneous systems that combine CPUs, GPUs, and different memory types.
 
-      I earned my Bachelor's degree from [Nankai University](https://en.nankai.edu.cn/){:target="_blank"}, where I had the fortune to do research on QEMU with 
-      [Prof. Xiaoli Gong](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm){:target="_blank"}, 
-      [Prof. Pen-Chung Yew](https://www-users.cse.umn.edu/~yew/){:target="_blank"}, 
+      I earned my bachelor's degree from [Nankai University](https://en.nankai.edu.cn/){:target="_blank"}, where I researched QEMU with
+      [Prof. Xiaoli Gong](https://cc.nankai.edu.cn/2019/0619/c13620a179396/page.htm){:target="_blank"},
+      [Prof. Pen-Chung Yew](https://www-users.cse.umn.edu/~yew/){:target="_blank"},
       and [Prof. Wenwen Wang](https://cobweb.cs.uga.edu/~wenwen/){:target="_blank"}.
 
 
@@ -64,6 +62,14 @@ experiences:
   display: true
   title: Experiences
   items:
+    - role: System Software Engineer
+      time: September 2026 - Present
+      company: NVIDIA
+      tag:
+      location:
+      details: |
+        + Improving AI performance using GPU Unified Virtual Memory.
+
     - role: System Software Engineer Intern
       time: 2025.05 - 2025.08
       company: NVIDIA
@@ -87,8 +93,8 @@ education:
   title: Education
   items:
     - university: Rice University
-      time: 2021 - 2026 (Expected)
-      major: Ph.D. student
+      time: 2021 - August 2026
+      major: Ph.D. in Computer Science
       degree: Computer Science Department
       details: |
     - university: Nankai University
